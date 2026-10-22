@@ -2,6 +2,15 @@
 
 BoyogalaElegantBook 是 [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) 的精简与现代化分支：只保留一种字体配置，去除冗余选项与多余依赖，编译更快，跨平台排版结果一致。
 
+## 微信公众号：博優旮旯-BOYOGALA
+
+本项目的作者有同名公众号，欢迎扫码关注作者的微信公众号：
+
+<p align="center"><img src="boyogala.png" width="64%"></p>
+
+一起走进优化求解器与数值计算的科普分享.
+
+
 > 本项目是非官方分支，与 ElegantLaTeX 团队无隶属关系；上游项目的版权与致谢见文末。
 
 ## 特点
